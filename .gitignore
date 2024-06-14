@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SimplChessMod/packages/Crestron.SimplSharp.SDK.Library.2.20.40
+/SimplChessMod/.vs/SimplChessMod/v16
+/SimplChessMod/SimplChessMod/obj
+/SimplChessMod/SimplChessMod/Properties
+/SimplChessMod/SimplChessMod/packages.config
+/.vs
